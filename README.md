@@ -13,7 +13,7 @@ Program mencari bilangan terbesar dari 2 buah bilangan
 ## LATIHAN 2
 perulangan bertingkat (for loop & Nested loop)
 
-<img src="img/latihan2.PNG" alt="Flowchart" width="800" height="300">
+<img src="img/latihan2.PNG" alt="Flowchart" width="800" height="400">
 
 ## LATIHAN 3
 Program mengurutkan data dari yang terkecil ke besar
@@ -23,4 +23,4 @@ Program mengurutkan data dari yang terkecil ke besar
 ## LATIHAN 4
 Program mencari nilai kurang dari 0.5 dengan nilai n(5)
 
-<img src="img/latihan4.PNG" alt="Flowchart" width="800" height="300">
+<img src="img/latihan4.PNG" alt="Flowchart" width="800" height="400">
