@@ -7,19 +7,7 @@
 
 ## LATIHAN 1
 Program mencari bilangan terbesar dari 2 buah bilangan
-"""
-Meminta inputan dari user dengan menggunakan fitur destruksi atau mengisi beberapa variabel secara sekaligus. <br>
-a, b = (
-    #int(input('Masukkan nilai a : '))<br>
-    #int(input('Masukkan nilai b : '))
-)
-"""
-"""
-#jika variable b kurang dari a: <br>
-#if b > a:<br>
-    #print(b, "adalah bilangan terbesar dari ", a)<br>
-#print("ini diluar pernyataan if")
-"""
+
 <img src="img/latihan1.PNG" alt="Flowchart" width="800" height="450">
 
 ## LATIHAN 2
