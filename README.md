@@ -1,26 +1,23 @@
 **DAFTAR ISI**
-> - [LATIHAN 1](##-LATIHAN-1)
-> - [LATIHAN 2](##-LATIHAN-2)
-> - [LATIHAN 3](##-LATIHAN-3)
-> - [LATIHAN 4](##-LATIHAN-4)
+> - [Program mencari bilangan terbesar dari 2 buah bilangan](#-Program-mencari-bilangan-terbesar-dari-2-buah-bilangan)
+> - [Perulangan bertingkat (for loop & Nested loop)](#perulangan-bertingkat-for-loop--nested-loop)
+> - [Program mengurutkan data dari yang terkecil ke besar](#program-mengurutkan-data-dari-yang-terkecil-ke-besar)
+> - [Program mencari nilai kurang dari 0.5 dengan nilai range(n)](#program-mencari-nilai-kurang-dari-05-dengan-nilai-rangen)
 
 
-## LATIHAN 1
-Program mencari bilangan terbesar dari 2 buah bilangan
 
+### Program mencari bilangan terbesar dari 2 buah bilangan
+Latihan 1
 <img src="img/latihan1.PNG" alt="Flowchart" width="800" height="450">
 
-## LATIHAN 2
-perulangan bertingkat (for loop & Nested loop)
-
+### Perulangan bertingkat (for loop & Nested loop)
+Latihan 2
 <img src="img/latihan2.PNG" alt="Flowchart" width="800" height="400">
 
-## LATIHAN 3
-Program mengurutkan data dari yang terkecil ke besar
-
+### Program mengurutkan data dari yang terkecil ke besar
+Latihan 3
 <img src="img/latihan3.PNG" alt="Flowchart" width="800" height="450">
 
-## LATIHAN 4
-Program mencari nilai kurang dari 0.5 dengan nilai range(n)
-
+### Program mencari nilai kurang dari 0.5 dengan nilai range(n)
+Latihan 4
 <img src="img/latihan4.PNG" alt="Flowchart" width="800" height="400">
